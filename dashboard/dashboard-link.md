@@ -7,7 +7,7 @@ This directory contains the links and documentation for the interactive executiv
 ## 🔗 Dashboard Access
 
 * **Interactive Looker Studio Dashboard:** [View Dashboard Here](https://lookerstudio.google.com/)
-* **Project Presentation Deck:** [View Presentation Deck](https://drive.google.com/file/d/13uo7ucrz-04oFOgcckp3JUNjKX0JpR5N/view?usp=sharing)
+* **Project Presentation Deck:** [View Presentation Deck](https://drive.google.com/file/d/1Feoj8-esZXHgwzB8NKvs3kP6fSJ_mkbW/view?usp=sharing)
 
 ---
 

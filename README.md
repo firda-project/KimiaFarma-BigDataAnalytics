@@ -117,7 +117,7 @@ KimiaFarma-BigDataAnalytics/
 
 ## 🔗 Project Links
 * **Interactive Dashboard:** [View Dashboard Here](https://lookerstudio.google.com/)
-* **Presentation Deck:** [View Presentation Deck](https://drive.google.com/file/d/13uo7ucrz-04oFOgcckp3JUNjKX0JpR5N/view?usp=sharing)
+* **Presentation Deck:** [View Presentation Deck](https://drive.google.com/file/d/1Feoj8-esZXHgwzB8NKvs3kP6fSJ_mkbW/view?usp=sharing)
 
 ---
 
